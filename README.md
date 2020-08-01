@@ -6,7 +6,7 @@
 
 * `pkg install git -y`
 
-* `git clone https://github.com/HarrisSec/best-ngrok`
+* `git clone https://github.com/DeepSociety/best-ngrok`
 
 * `cd best-ngrok`
 
